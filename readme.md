@@ -8,7 +8,7 @@
 - 🏅Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/vinay-hipparge/</h3>
-- 📫 How to reach me **vinayhipparge15@gmail.com**
+📫 How to reach me *vinayhipparge15@gmail.com*
 <p align="left">
 </p>
 
