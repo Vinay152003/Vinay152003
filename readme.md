@@ -3,9 +3,9 @@
 
 - 👯 Hackathon Achievements:
 
-- Runner Up: CIDECODE Hackathon | Government of India
-- Third Place: HackXcelerate Hackathon | Collaboration with Microsoft and ByteXL
-- Finalist: Rajasthan Police Hackathon | Government of Rajasthan
+- Runner Up: CIDECODE Hackathon 2024 | Government of India
+- Third Place: HackXcelerate Hackathon 2024 | Collaboration with Microsoft and ByteXL
+- Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan
 
 - 📫 How to reach me **vinayhipparge15@gmail.com**
 
