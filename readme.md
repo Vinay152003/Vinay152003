@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
 <h3 align="center">Hey Vinay Hipparge, With enthusiasm bubbling in my veins, I am delighted to introduce myself as Vinay Hipparge, currently in my third year of pursuing Artificial Intelligence and Data Science (AI&DS). My journey in this fascinating field has been nothing short of exhilarating, and I'm eager to share my experiences and passion with you. So, let's embark on this exciting adventure together!</h3>
 
-- 👯 Hackathon Achievements:
+-   🏆 Hackathon Achievements:
 
-- Runner Up: CIDECODE Hackathon 2024 | Government of India
-- Third Place: HackXcelerate Hackathon 2024 | Collaboration with Microsoft and ByteXL
-- Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan
+- 🏅Runner Up: CIDECODE Hackathon 2024 | Government of India
+- 🏅Third Place: HackXcelerate Hackathon 2024 | Collaboration with Microsoft and ByteXL
+- 🏅Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan
 
 - 📫 How to reach me **vinayhipparge15@gmail.com**
 
