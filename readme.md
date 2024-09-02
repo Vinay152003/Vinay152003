@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
 <h3 align="center">Hey Vinay Hipparge, With enthusiasm bubbling in my veins, I am delighted to introduce myself as Vinay Hipparge, currently in my third year of pursuing Artificial Intelligence and Data Science (AI&DS). My journey in this fascinating field has been nothing short of exhilarating, and I'm eager to share my experiences and passion with you. So, let's embark on this exciting adventure together!</h3>
 
-- 👯 I’m looking to collaborate on **With Enthusiastic People**
+- 👯 Hackathon Achievements 
+Runner Up: CIDECODE Hackathon | Government of India
+Third Place: HackXcelerate Hackathon | Collaboration with Microsoft and ByteXL
+Finalist: Rajasthan Police Hackathon | Government of Rajasthan
 
 - 📫 How to reach me **vinayhipparge15@gmail.com**
 
