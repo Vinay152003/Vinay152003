@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
-<h3 align="center">Hey Vinay Hipparge, With enthusiasm bubbling in my veins, I am delighted to introduce myself as Vinay Hipparge, currently in my third year of pursuing Artificial Intelligence and Data Science (AI&DS). My journey in this fascinating field has been nothing short of exhilarating, and I'm eager to share my experiences and passion with you. So, let's embark on this exciting adventure together!</h3>
+<h3 align="center">Aspiring software engineer with hands-on experience in AI, machine learning, and blockchain technology. Demonstrated ability to develop innovative solutions through internships at Goldman Sachs and DK Techno’s. Proven track record in successfully leading projects and participating in high-profile hackathons. Attended projects and research collaborations with IIT Bombay professors, contributing to cutting-edge advancements in the field. Skilled in multiple programming languages and technologies, with a strong foundation in data science and solutions architecture.</h3>
 
 -   🏆 Hackathon Achievements:
 
