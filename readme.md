@@ -4,7 +4,9 @@
 🏆 Hackathon Achievements:
 
 - 🏅Runner Up: CIDECODE Hackathon 2024 | Government of India
+- 🥈Aavishkar Research Competition 2024
 - 🏅Third Place: HackXcelerate Hackathon 2024 | Collaboration with Microsoft and ByteXL
+- 🏅Finalist Smart India Hackathon (SIH) 2024
 - 🏅Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/vinay-hipparge/</h3>
