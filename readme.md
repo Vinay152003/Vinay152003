@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
 <h3 align="center">AI Engineer Intern | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learning, AWS, LLM, NLP, Deep Learning, Python, Blockchain, Cybersecurity | Researcher | Ex-SDE Intern at Goldman Sachs & JPMorgan Chase & Co.
 
+
 🏆 Hackathon Achievements:
 
 - 🏅Runner Up: CIDECODE Hackathon 2024 | Government of India
