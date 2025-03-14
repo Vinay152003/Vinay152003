@@ -12,7 +12,7 @@ AI Engineer Intern | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learni
 
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/vinay-hipparge/</h3>
-📫 How to reach me: vinayhipparge15@gmail.com
+📫 How to reach me: vinayhipparge15@gmail.com or vinayhipparge@gmail.com
 <p align="left">
 </p>
 
