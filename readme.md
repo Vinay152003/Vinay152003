@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
-<h3 align="center">AI Engineer Intern | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learning, AWS, LLM, NLP, Deep Learning, Python, Blockchain, Cybersecurity | Researcher | Ex-SDE Intern at Goldman Sachs & JPMorgan Chase & Co.
+<h3 align="center">
+AI Engineer Intern | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learning, AWS, LLM, NLP, Deep Learning, Python, Blockchain, Cybersecurity | Researcher | Ex-SDE Intern at Goldman Sachs & JPMorgan Chase & Co.
 
-
-🏆 Hackathon Achievements:
+<h3 align="left">🏆Hackathon Achievements:</h3>
 
 - 🏅Runner Up: CIDECODE Hackathon 2024 | Government of India
 - 🥈Aavishkar Research Competition 2024
 - 🏅Third Place: HackXcelerate Hackathon 2024 | Collaboration with Microsoft and ByteXL
 - 🏅Finalist Smart India Hackathon (SIH) 2024
-- 🏅Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan
+- 🏅Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan</h3>
+
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/vinay-hipparge/</h3>
-📫 How to reach me *vinayhipparge15@gmail.com*
+📫 How to reach me: vinayhipparge15@gmail.com
 <p align="left">
 </p>
 
