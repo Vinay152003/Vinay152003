@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
 <h3 align="center">
-AI Engineer Intern | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learning, AWS, LLM, NLP, Deep Learning, Python, Blockchain, Cybersecurity | Researcher | Ex-SDE Intern at Goldman Sachs & JPMorgan Chase & Co.
+AI Engineer | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learning, AWS, LLM, NLP, Deep Learning, Python, Blockchain, Cybersecurity | Researcher | Ex-SDE Intern at Goldman Sachs & JPMorgan Chase & Co.
 
 <h3 align="left">🏆Hackathon Achievements:</h3>
 
