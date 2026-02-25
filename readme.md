@@ -1,20 +1,60 @@
 <h1 align="center">Hi 👋, I'm Vinay Hipparge</h1>
+
 <h3 align="center">
-AI Engineer | 5+ Hackathon Wins 🏆 | B.Tech In AI & DS | Machine Learning, AWS, LLM, NLP, Deep Learning, Python, Blockchain, Cybersecurity | Researcher | Ex-SDE Intern at JPMorgan Chase & Co.
+AI Engineer | Patent Inventor (Govt. of India) | 5+ National Hackathon Finalist 🏆  
+B.Tech in Artificial Intelligence & Data Science  
+Specializing in Deep Learning, LLMs, Agentic AI Systems & Scalable AI Automation
+</h3>
 
-<h3 align="left">🏆Hackathon Achievements:</h3>
+---
 
-- 🏅Runner Up: CIDECODE Hackathon 2024 | Government of India
-- 🥈Aavishkar Research Competition 2024
-- 🏅Third Place: HackXcelerate Hackathon 2024 | Collaboration with Microsoft and ByteXL
-- 🏅Finalist Smart India Hackathon (SIH) 2024
-- 🏅Finalist: Rajasthan Police Hackathon 2024 | Government of Rajasthan</h3>
+<h3 align="left">🏆 Hackathon Achievements:</h3>
 
+- 🏅 Runner-Up — CIDECODE Hackathon 2024 (Government of India)  
+- 🥈 Runner-Up — Aavishkar Research Competition 2024  
+- 🏅 Third Place — HackXcelerate 2024 (Microsoft x ByteXL)  
+- 🏅 National Finalist — Smart India Hackathon 2024  
+- 🏅 Finalist — Rajasthan Police Hackathon 2024  
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/vinay-hipparge/</h3>
-📫 How to reach me: vinayhipparge15@gmail.com or vinayhipparge@gmail.com
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="left">🧠 Technical Expertise:</h3>
+
+**Programming & Scripting:**  
+Python, SQL, JavaScript, TypeScript  
+
+**Machine Learning, Deep Learning & AI:**  
+PyTorch, TensorFlow, CUDA, Neural Networks, CNNs, Transformers, Vision Transformers (ViT),  
+OpenAI CLIP, YOLO, BLIP, Fine-Tuning, LoRA, Quantized LLMs (GGUF)
+
+**Large Language Models & Agentic AI:**  
+GPT-4/5, Claude (Opus/Sonnet/Haiku), LangChain, CrewAI,  
+Model Context Protocol (MCP), Retrieval-Augmented Generation (RAG)
+
+**NLP & Embeddings:**  
+BERT, spaCy, Named Entity Recognition (NER), Semantic Search  
+
+**Vector Databases & Search:**  
+FAISS, ChromaDB, Pinecone  
+
+**Backend & APIs:**  
+Django, Flask, FastAPI, REST APIs, Gradio  
+
+**Automation & Orchestration:**  
+Make.com, n8n, Composio, Twilio, Selenium, WhatsApp Business API, SendGrid  
+
+**Cloud & Infrastructure:**  
+AWS, Docker, Kubernetes, CI/CD, Grafana, Prometheus  
+
+**Databases:**  
+MySQL, MongoDB  
+
+**Data Engineering:**  
+Pandas, NumPy, Apache Spark, ETL Pipelines  
+
+---
+
+<h3 align="left">📫 Connect with Me:</h3>
+
+🔗 LinkedIn: https://www.linkedin.com/in/vinay-hipparge/  
+📧 Email: vinayhipparge15@gmail.com  
