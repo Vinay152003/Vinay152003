@@ -3,7 +3,8 @@
 > Solving the 300+ page document problem that existing LLMs fail on. Building AI systems that eliminate hallucination, loss of context, and inaccurate answers — delivering precise automation that cuts operational costs, eliminates manual work, reduces staff overhead, and drives revenue growth.
 
 **Location:** India | Open to Relocation & Remote  
-**Email:** vinayhipparge15@gmail.com | **[LinkedIn](https://linkedin.com/in/vinayhipparge)** | **[GitHub](https://github.com/vinay152003)** | **[Portfolio](https://vinayhipparge.com)**
+<<<<<<< HEAD
+**Email:** vinayhipparge15@gmail.com | **[LinkedIn](https://www.linkedin.com/in/vinay-hipparge/)** | **[GitHub](https://github.com/Vinay152003)** | **[Portfolio](https://vinay152003.github.io/portfolio/)**
 
 ---
 
@@ -112,14 +113,14 @@ Autonomous AI agent crawling dark web + GNN-based forensic analysis.
 
 ---
 
-### **SalesAgent AI** | [Demo Video](https://demo.link)
+### **SalesAgent AI** | [Watch Demo](https://youtu.be/NS7Xp1sFOnk?si=pQNe9ppdrUe9-kyW)
 Production sales agent (Claude + Web Search + Vector Search)
 - **4× lead conversion** | 100+ campaigns | 2,000+ companies
 - 90% manual effort reduction
 
 ---
 
-### **AI Voice Agent Scheduler** | [Live Demo](https://demo.link)
+### **AI Voice Agent Scheduler** | [Live Demo](https://vikara-voice-scheduler.vercel.app/)
 Voice scheduling agent (Next.js, VAPI, Claude, Deepgram, ElevenLabs)
 - **200+ bookings/month** | 90% faster (8 min → 45 sec)
 
@@ -186,9 +187,9 @@ N.K. Orchid College of Engineering & Technology, Solapur, India | *Dec 2021 – 
 ## 📫 Let's Connect
 
 - **Email:** vinayhipparge15@gmail.com
-- **LinkedIn:** [linkedin.com/in/vinayhipparge](https://linkedin.com/in/vinayhipparge)
-- **GitHub:** [github.com/vinay152003](https://github.com/vinay152003)
-- **Portfolio:** [vinayhipparge.com](https://vinayhipparge.com)
+- **LinkedIn:** [linkedin.com/in/vinay-hipparge](https://www.linkedin.com/in/vinay-hipparge/)
+- **GitHub:** [github.com/Vinay152003](https://github.com/Vinay152003)
+- **Portfolio:** [vinay152003.github.io/portfolio](https://vinay152003.github.io/portfolio/)
 
 ---
 
