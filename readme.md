@@ -3,7 +3,6 @@
 > Solving the 300+ page document problem that existing LLMs fail on. Building AI systems that eliminate hallucination, loss of context, and inaccurate answers — delivering precise automation that cuts operational costs, eliminates manual work, reduces staff overhead, and drives revenue growth.
 
 **Location:** India | Open to Relocation & Remote  
-<<<<<<< HEAD
 **Email:** vinayhipparge15@gmail.com | **[LinkedIn](https://www.linkedin.com/in/vinay-hipparge/)** | **[GitHub](https://github.com/Vinay152003)** | **[Portfolio](https://vinay152003.github.io/portfolio/)**
 
 ---
