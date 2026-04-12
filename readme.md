@@ -46,14 +46,6 @@ Built **AI-Powered Legal Assistant** covering India's multi-tier court system:
 
 ---
 
-### **Google Summer of Code Contributor** | Alaska (Bio-Block) | *Feb 2026 – Apr 2026*
-PHI Anonymization for healthcare document management (Blockchain, IPFS, ML/NLP).
-- **ML/NLP Pipeline:** Presidio NER + spaCy detecting 12+ entity types across text, PDF, images
-- **Impact:** 100% manual redaction eliminated | 5 PRs merged
-- **Tech:** Deep Learning (OCR, NER), NLP, Computer Vision
-
----
-
 ### **AI Solution Engineer** | Implement AI | *Nov 2025 – Feb 2026* | Remote
 **Deployed full AI agent ecosystem eliminating manual work across 30+ campaigns**
 
