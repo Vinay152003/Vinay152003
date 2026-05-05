@@ -131,7 +131,6 @@ N.K. Orchid College of Engineering & Technology, Solapur, India | *Dec 2021 – 
 
 ## 💡 What I Deliver
 
-✅ **Solves the 300+ Page Problem** — Long-context architectures that eliminate hallucination & context loss  
 ✅ **Manual Work Elimination** — AI agents & automation reduce tedious tasks by 85%+  
 ✅ **Operational Cost Reduction** — 60–70% staff overhead savings through intelligent systems  
 ✅ **Revenue Growth** — 4× lead conversion, scaled sales, faster operations  
@@ -145,7 +144,6 @@ N.K. Orchid College of Engineering & Technology, Solapur, India | *Dec 2021 – 
 - **Email:** vinayhipparge15@gmail.com
 - **LinkedIn:** [linkedin.com/in/vinay-hipparge](https://www.linkedin.com/in/vinay-hipparge/)
 - **GitHub:** [github.com/Vinay152003](https://github.com/Vinay152003)
-- **Portfolio:** [vinay152003.github.io/portfolio](https://vinay152003.github.io/portfolio/)
 
 ---
 
