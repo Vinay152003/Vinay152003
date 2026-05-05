@@ -1,7 +1,7 @@
 # 👋 Vinay Ravindranath Hipparge | AI Engineer & Researcher
 
 **Location:** India | Open to Relocation & Remote  
-**Email:** vinayhipparge15@gmail.com | **[LinkedIn](https://www.linkedin.com/in/vinay-hipparge/)** | **[GitHub](https://github.com/Vinay152003)** | **[Portfolio](https://vinay152003.github.io/portfolio/)**
+**Email:** vinayhipparge15@gmail.com | **[LinkedIn](https://www.linkedin.com/in/vinay-hipparge/)** | **[GitHub](https://github.com/Vinay152003)**
 
 ---
 
