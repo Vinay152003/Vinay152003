@@ -1,48 +1,13 @@
 # 👋 Vinay Ravindranath Hipparge | AI Engineer & Researcher
 
-> Solving the 300+ page document problem that existing LLMs fail on. Building AI systems that eliminate hallucination, loss of context, and inaccurate answers — delivering precise automation that cuts operational costs, eliminates manual work, reduces staff overhead, and drives revenue growth.
-
 **Location:** India | Open to Relocation & Remote  
 **Email:** vinayhipparge15@gmail.com | **[LinkedIn](https://www.linkedin.com/in/vinay-hipparge/)** | **[GitHub](https://github.com/Vinay152003)** | **[Portfolio](https://vinay152003.github.io/portfolio/)**
-
----
-
-## 🎯 The Problem I Solve
-
-**The 300+ Page Document Problem:**
-
-Government organizations, law firms, and enterprises handle massive workflows with extensive documentation:
-- 300+ page legal documents (tenders, case files, policy documents) taking **3–5 days** to process manually
-- **ChatGPT, Claude, open-source LLMs fail** on long-context documents:
-  - ❌ Loss of context after 100–150 pages
-  - ❌ Hallucinated answers (making up information)
-  - ❌ Wrong responses & incomplete analysis
-  - ❌ Cannot maintain document coherence across 300+ pages
-- Sales teams spending **weeks** on lead research with AI errors
-- Recruitment teams drowning in **months-long hiring cycles**
-- High **operational costs**, bloated staff teams, zero reliable automation
-
-**My Solution as AI Researcher:** Building domain-specific legal LLMs + long-context architectures that solve hallucination, maintain context across 300+ pages, and deliver **accurate, complete answers** — eliminating manual work, reducing staff by 60–85%, cutting operational costs, and driving **4× revenue growth**.
 
 ---
 
 ## 💼 Professional Experience
 
 ### **AI Researcher** | Rhett | *Mar 2026 – Present* | Remote
-**Researching & solving the 300+ page document problem — addressing LLM limitations in government & judicial systems**
-
-**The Challenge:** Government organizations (Rajasthan state govt, Indian judicial systems) handle 300+ page legal documents daily. ChatGPT, Claude, and open-source LLMs fail — losing context, hallucinating answers, returning inaccurate information. Staff spend 3–5 days reading documents manually because AI systems can't be trusted.
-
-**My Research & Solution:** Building domain-specific legal LLM with long-context architecture designed specifically for Indian government workflows — eliminating hallucination, maintaining context across entire 300+ page documents, delivering accurate, reliable answers.
-
-Built **AI-Powered Legal Assistant** covering India's multi-tier court system:
-- 8,000+ laws and 100,000+ sections trained on Constitution of India & government legal databases
-- Attorneys enter plain-English case description → system identifies applicable laws, generates case files, legal reports, jurisdiction-specific advice
-- **No hallucination. No context loss. Accurate answers on long documents.**
-- **50+ attorneys | 10+ judicial systems actively using**
-- **Impact:** 90% faster document analysis (3–5 days → <30 min) | 85% faster drafting (2–3 days → <1 hour)
-- **Revenue:** 500+ staff-hours saved monthly | Expanding to additional state governments & private law firms
-- **Tech:** LLMs, Long-Context Architecture, NLP, RAG, ChromaDB, Fine-tuning for accuracy
 
 ---
 
